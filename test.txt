@@ -1,0 +1,21 @@
+To fix rout not defind
+
+php artisan route:clear
+php artisan view:clear
+php artisan cache:clear
+
+
+
+
+ausbrbco_dodo
+
+user: 42584143
+pass: 12345678
+
+
+run laravel locally 
+
+composer install
+php artisan key:generate
+php artisan migrate
+php artisan db:seed
